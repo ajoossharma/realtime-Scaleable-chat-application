@@ -2,7 +2,6 @@
 
 A highly scalable real-time chat application built with WebSockets, Kafka, and Next.js in a monorepo architecture.
 
-![Project Architecture](public/circles.svg)
 
 ## Overview
 
